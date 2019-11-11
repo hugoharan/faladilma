@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/faladilma/static/css/main.b7d6e7bc.chunk.css",
+    "main.js": "/faladilma/static/js/main.9526f1c6.chunk.js",
+    "main.js.map": "/faladilma/static/js/main.9526f1c6.chunk.js.map",
+    "runtime-main.js": "/faladilma/static/js/runtime-main.ccd8efc4.js",
+    "runtime-main.js.map": "/faladilma/static/js/runtime-main.ccd8efc4.js.map",
+    "static/js/2.13559619.chunk.js": "/faladilma/static/js/2.13559619.chunk.js",
+    "static/js/2.13559619.chunk.js.map": "/faladilma/static/js/2.13559619.chunk.js.map",
+    "index.html": "/faladilma/index.html",
+    "precache-manifest.64faffea5a4036d6018a142c8a98911a.js": "/faladilma/precache-manifest.64faffea5a4036d6018a142c8a98911a.js",
+    "service-worker.js": "/faladilma/service-worker.js",
+    "static/css/main.b7d6e7bc.chunk.css.map": "/faladilma/static/css/main.b7d6e7bc.chunk.css.map",
+    "static/media/mamae-dilma.png": "/faladilma/static/media/mamae-dilma.2751921e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccd8efc4.js",
+    "static/js/2.13559619.chunk.js",
+    "static/css/main.b7d6e7bc.chunk.css",
+    "static/js/main.9526f1c6.chunk.js"
+  ]
+}
