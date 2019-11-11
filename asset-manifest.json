@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.8e336daf.chunk.css",
+    "main.css": "/static/css/main.7f6952e5.chunk.css",
     "main.js": "/static/js/main.8084a6e6.chunk.js",
     "main.js.map": "/static/js/main.8084a6e6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7e4df66a.js",
@@ -8,15 +8,15 @@
     "static/js/2.13559619.chunk.js": "/static/js/2.13559619.chunk.js",
     "static/js/2.13559619.chunk.js.map": "/static/js/2.13559619.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.90b1e24e3501abd1d9bf9a68686de96d.js": "/precache-manifest.90b1e24e3501abd1d9bf9a68686de96d.js",
+    "precache-manifest.965160e81def2de8d121dd2a380373ed.js": "/precache-manifest.965160e81def2de8d121dd2a380373ed.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.8e336daf.chunk.css.map": "/static/css/main.8e336daf.chunk.css.map",
+    "static/css/main.7f6952e5.chunk.css.map": "/static/css/main.7f6952e5.chunk.css.map",
     "static/media/mamae-dilma.png": "/static/media/mamae-dilma.2751921e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7e4df66a.js",
     "static/js/2.13559619.chunk.js",
-    "static/css/main.8e336daf.chunk.css",
+    "static/css/main.7f6952e5.chunk.css",
     "static/js/main.8084a6e6.chunk.js"
   ]
 }
